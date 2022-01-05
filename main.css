@@ -1,0 +1,31 @@
+form {
+	margin: 240px auto;
+	block-size: 290px;
+	width: 320px;
+	border: 1px solid #000000;
+	border-radius: 10px;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+}
+.contact {
+	padding-bottom: 20px;
+}
+.first, .last, .mail {
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+#firstName, #lastName, #email {
+	height: 25px;
+	font-size: 15px;
+	font-family: 'Oswald', sans-serif;
+}
+.submit {
+	padding-top: 15px;
+}
+#sub {
+	background-color: #FFFFFF;
+	border-radius: 5px;
+	border-width: 1px;
+	width: 300px;
+	font-family: 'Oswald', sans-serif;
+}
